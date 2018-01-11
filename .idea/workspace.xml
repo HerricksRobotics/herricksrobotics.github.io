@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2490">
-              <caret line="166" column="8" lean-forward="false" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
+            <state relative-caret-position="225">
+              <caret line="158" column="60" lean-forward="false" selection-start-line="158" selection-start-column="60" selection-end-line="158" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -96,7 +96,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -289,7 +289,7 @@
       <option name="presentableId" value="Default" />
       <updated>1515435025198</updated>
       <workItem from="1515435026446" duration="124000" />
-      <workItem from="1515558698884" duration="5984000" />
+      <workItem from="1515558698884" duration="7243000" />
     </task>
     <task id="LOCAL-00001" summary="changing files">
       <created>1515435109921</created>
@@ -326,14 +326,21 @@
       <option name="project" value="LOCAL" />
       <updated>1515643133560</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="just making file smaller">
+      <created>1515681286594</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1515681286594</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6108000" />
+    <option name="totallyTimeSpent" value="7367000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17406625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -366,7 +373,8 @@
     <MESSAGE value="adding Pics into gallery.html&#10;will be continuing to edit format and add more pics" />
     <MESSAGE value="changes" />
     <MESSAGE value="adding more pics" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding more pics" />
+    <MESSAGE value="just making file smaller" />
+    <option name="LAST_COMMIT_MESSAGE" value="just making file smaller" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -415,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2490">
-          <caret line="166" column="8" lean-forward="false" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="158" column="60" lean-forward="false" selection-start-line="158" selection-start-column="60" selection-end-line="158" selection-end-column="60" />
           <folding />
         </state>
       </provider>
