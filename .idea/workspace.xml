@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3ea4c90-3ca8-4314-b8ea-6d2b754b0da4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/amanda.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/caitlin.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/chloe.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/richard.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/board.html" afterPath="$PROJECT_DIR$/board.html" />
-      <change beforePath="$PROJECT_DIR$/images/kanishk.jpg" afterPath="$PROJECT_DIR$/images/kanishk.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="250">
+              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -35,8 +30,8 @@
       <file leaf-file-name="board.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/board.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="132" column="103" lean-forward="false" selection-start-line="132" selection-start-column="103" selection-end-line="132" selection-end-column="103" />
+            <state relative-caret-position="536">
+              <caret line="63" column="106" lean-forward="false" selection-start-line="63" selection-start-column="106" selection-end-line="63" selection-end-column="106" />
               <folding />
             </state>
           </provider>
@@ -156,7 +151,7 @@
       <workItem from="1516971872639" duration="2507000" />
       <workItem from="1517064802320" duration="1667000" />
       <workItem from="1517230880482" duration="525000" />
-      <workItem from="1517317552127" duration="7081000" />
+      <workItem from="1517317552127" duration="8575000" />
     </task>
     <task id="LOCAL-00001" summary="changing files">
       <created>1515435109921</created>
@@ -284,14 +279,29 @@
       <option name="project" value="LOCAL" />
       <updated>1517365753415</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="adding pics now">
+      <created>1517367416605</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1517367416605</updated>
+    </task>
+    <task id="LOCAL-00020" summary="changes">
+      <created>1517368516349</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1517368516349</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19651000" />
+    <option name="totallyTimeSpent" value="21145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17406625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -321,7 +331,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changing files" />
     <MESSAGE value="adding Pics into gallery.html&#10;will be continuing to edit format and add more pics" />
-    <MESSAGE value="changes" />
     <MESSAGE value="adding more pics" />
     <MESSAGE value="just making file smaller" />
     <MESSAGE value="going to edit website now lol...since i have a free period" />
@@ -329,7 +338,8 @@
     <MESSAGE value="adding pics on gallery page" />
     <MESSAGE value="Changing the board page" />
     <MESSAGE value="adding pics now" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding pics now" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -590,16 +600,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="250">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/board.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="132" column="103" lean-forward="false" selection-start-line="132" selection-start-column="103" selection-end-line="132" selection-end-column="103" />
+        <state relative-caret-position="536">
+          <caret line="63" column="106" lean-forward="false" selection-start-line="63" selection-start-column="106" selection-end-line="63" selection-end-column="106" />
           <folding />
         </state>
       </provider>
