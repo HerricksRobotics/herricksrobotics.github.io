@@ -4,63 +4,131 @@
 @import 'libs/skel';
 
 /*
-	Photon by HTML5 UP
+	Spectral by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Header */
+/* Spotlight */
 
-	#header {
-		$from: _palette(accent3-alt);
-		$to: _palette(accent6-alt);
+	.spotlight {
+		display: block;
 
-		background-image: none;
-		filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#{$from}", endColorStr="#{$to}", GradientType=1);
+		.image {
+			display: inline-block;
+			vertical-align: top;
+		}
+
+		.content {
+			@include padding(4em, 4em);
+			display: inline-block;
+		}
+
+		&:after {
+			clear: both;
+			content: '';
+			display: block;
+		}
+	}
+
+/* Features */
+
+	.features {
+		display: block;
+
+		li {
+			float: left;
+		}
+
+		&:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
+	}
+
+/* Banner + Wrapper (style4) */
+
+	#banner,
+	.wrapper.style4 {
+		background-image: url("../../images/banner.jpg");
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
 		position: relative;
 
 		&:before {
-			background-image:		url('images/overlay2.png'),		url('images/overlay3.svg');
-			background-position:	top left,							center center;
-			background-size:		auto,								cover;
+			background: #000000;
 			content: '';
 			height: 100%;
 			left: 0;
+			opacity: 0.5;
 			position: absolute;
 			top: 0;
 			width: 100%;
 		}
 
-		> * {
+		.inner {
 			position: relative;
 			z-index: 1;
 		}
 	}
 
-/* Footer */
+/* Banner */
 
-	#footer {
-		$from: _palette(accent6-alt);
-		$to: _palette(accent3-alt);
+	#banner {
+		@include padding(14em, 0);
+		height: auto;
 
-		background-image: none;
-		filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#{$from}", endColorStr="#{$to}", GradientType=1);
-		position: relative;
-
-		&:before {
-			background-image:		url('images/overlay2.png'),		url('images/overlay4.svg');
-			background-position:	top left,							center center;
-			background-size:		auto,								cover;
-			content: '';
-			height: 100%;
-			left: 0;
-			position: absolute;
-			top: 0;
-			width: 100%;
+		&:after {
+			display: none;
 		}
+	}
 
-		> * {
+/* CTA */
+
+	#cta {
+		.inner {
+			header {
+				float: left;
+			}
+
+			.actions {
+				float: left;
+			}
+
+			&:after {
+				clear: both;
+				content: '';
+				display: block;
+			}
+		}
+	}
+
+/* Main */
+
+	#main {
+		> header {
+			background-image: url("../../images/banner.jpg");
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: cover;
 			position: relative;
-			z-index: 1;
+
+			&:before {
+				background: #000000;
+				content: '';
+				height: 100%;
+				left: 0;
+				opacity: 0.5;
+				position: absolute;
+				top: 0;
+				width: 100%;
+			}
+
+			> * {
+				position: relative;
+				z-index: 1;
+			}
 		}
 	}
