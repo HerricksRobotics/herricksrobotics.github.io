@@ -1,27 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3ea4c90-3ca8-4314-b8ea-6d2b754b0da4" name="Default" comment="redesigning the website">
+    <list default="true" id="b3ea4c90-3ca8-4314-b8ea-6d2b754b0da4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/arrow.svg" afterPath="$PROJECT_DIR$/assets/css/images/arrow.svg" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/close.svg" afterPath="$PROJECT_DIR$/assets/css/images/close.svg" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay3.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay4.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/spinner.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ie/PIE.htc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" afterPath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" />
-      <change beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="$PROJECT_DIR$/assets/js/util.js" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" />
-      <change beforePath="$PROJECT_DIR$/board.html" afterPath="$PROJECT_DIR$/board.html" />
-      <change beforePath="$PROJECT_DIR$/elements.html" afterPath="$PROJECT_DIR$/elements.html" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change beforePath="$PROJECT_DIR$/generic.html" afterPath="$PROJECT_DIR$/generic.html" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/images/Gear.png" afterPath="$PROJECT_DIR$/images/Gear.png" />
+      <change beforePath="$PROJECT_DIR$/images/amanda.jpg" afterPath="$PROJECT_DIR$/images/amanda.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="$PROJECT_DIR$/images/banner.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/bhavesh.jpg" afterPath="$PROJECT_DIR$/images/bhavesh.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/caitlin.jpg" afterPath="$PROJECT_DIR$/images/caitlin.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/chloe.jpg" afterPath="$PROJECT_DIR$/images/chloe.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/chris.jpg" afterPath="$PROJECT_DIR$/images/chris.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/01.jpg" afterPath="$PROJECT_DIR$/images/fulls/01.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/02.jpg" afterPath="$PROJECT_DIR$/images/fulls/02.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/03.jpg" afterPath="$PROJECT_DIR$/images/fulls/03.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/04.jpg" afterPath="$PROJECT_DIR$/images/fulls/04.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/05.jpg" afterPath="$PROJECT_DIR$/images/fulls/05.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/06.jpg" afterPath="$PROJECT_DIR$/images/fulls/06.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/07.jpg" afterPath="$PROJECT_DIR$/images/fulls/07.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/08.jpg" afterPath="$PROJECT_DIR$/images/fulls/08.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/09.jpg" afterPath="$PROJECT_DIR$/images/fulls/09.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/10.jpg" afterPath="$PROJECT_DIR$/images/fulls/10.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/11.jpg" afterPath="$PROJECT_DIR$/images/fulls/11.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/12.jpg" afterPath="$PROJECT_DIR$/images/fulls/12.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/13.jpg" afterPath="$PROJECT_DIR$/images/fulls/13.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/14.jpg" afterPath="$PROJECT_DIR$/images/fulls/14.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/15.jpg" afterPath="$PROJECT_DIR$/images/fulls/15.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/16.jpg" afterPath="$PROJECT_DIR$/images/fulls/16.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/17.jpg" afterPath="$PROJECT_DIR$/images/fulls/17.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/18.jpg" afterPath="$PROJECT_DIR$/images/fulls/18.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/19.jpg" afterPath="$PROJECT_DIR$/images/fulls/19.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/20.jpg" afterPath="$PROJECT_DIR$/images/fulls/20.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/21.jpg" afterPath="$PROJECT_DIR$/images/fulls/21.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/22.jpg" afterPath="$PROJECT_DIR$/images/fulls/22.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/23.jpg" afterPath="$PROJECT_DIR$/images/fulls/23.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/24.jpg" afterPath="$PROJECT_DIR$/images/fulls/24.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/25.jpg" afterPath="$PROJECT_DIR$/images/fulls/25.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/26.jpg" afterPath="$PROJECT_DIR$/images/fulls/26.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/27.jpg" afterPath="$PROJECT_DIR$/images/fulls/27.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/28.jpg" afterPath="$PROJECT_DIR$/images/fulls/28.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/29.jpg" afterPath="$PROJECT_DIR$/images/fulls/29.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/30.jpg" afterPath="$PROJECT_DIR$/images/fulls/30.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/31.jpg" afterPath="$PROJECT_DIR$/images/fulls/31.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/32.jpg" afterPath="$PROJECT_DIR$/images/fulls/32.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/33.jpg" afterPath="$PROJECT_DIR$/images/fulls/33.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/34.jpg" afterPath="$PROJECT_DIR$/images/fulls/34.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/35.jpg" afterPath="$PROJECT_DIR$/images/fulls/35.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/36.jpg" afterPath="$PROJECT_DIR$/images/fulls/36.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/37.jpg" afterPath="$PROJECT_DIR$/images/fulls/37.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/38.jpg" afterPath="$PROJECT_DIR$/images/fulls/38.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/39.jpg" afterPath="$PROJECT_DIR$/images/fulls/39.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/40.jpg" afterPath="$PROJECT_DIR$/images/fulls/40.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/41.jpg" afterPath="$PROJECT_DIR$/images/fulls/41.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/42.jpg" afterPath="$PROJECT_DIR$/images/fulls/42.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/43.jpg" afterPath="$PROJECT_DIR$/images/fulls/43.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/44.jpg" afterPath="$PROJECT_DIR$/images/fulls/44.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/45.jpg" afterPath="$PROJECT_DIR$/images/fulls/45.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/46.jpg" afterPath="$PROJECT_DIR$/images/fulls/46.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/47.jpg" afterPath="$PROJECT_DIR$/images/fulls/47.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/48.jpg" afterPath="$PROJECT_DIR$/images/fulls/48.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/49.jpg" afterPath="$PROJECT_DIR$/images/fulls/49.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/50.jpg" afterPath="$PROJECT_DIR$/images/fulls/50.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/51.jpg" afterPath="$PROJECT_DIR$/images/fulls/51.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/52.jpg" afterPath="$PROJECT_DIR$/images/fulls/52.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/53.jpg" afterPath="$PROJECT_DIR$/images/fulls/53.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/54.jpg" afterPath="$PROJECT_DIR$/images/fulls/54.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/header.jpg" afterPath="$PROJECT_DIR$/images/header.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/herbie.jpg" afterPath="$PROJECT_DIR$/images/herbie.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/kanishk.jpg" afterPath="$PROJECT_DIR$/images/kanishk.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/richard.jpg" afterPath="$PROJECT_DIR$/images/richard.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/01.jpg" afterPath="$PROJECT_DIR$/images/thumbs/01.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/02.jpg" afterPath="$PROJECT_DIR$/images/thumbs/02.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/03.jpg" afterPath="$PROJECT_DIR$/images/thumbs/03.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/04.jpg" afterPath="$PROJECT_DIR$/images/thumbs/04.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/05.jpg" afterPath="$PROJECT_DIR$/images/thumbs/05.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/06.jpg" afterPath="$PROJECT_DIR$/images/thumbs/06.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/07.jpg" afterPath="$PROJECT_DIR$/images/thumbs/07.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/08.jpg" afterPath="$PROJECT_DIR$/images/thumbs/08.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/09.jpg" afterPath="$PROJECT_DIR$/images/thumbs/09.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/10.jpg" afterPath="$PROJECT_DIR$/images/thumbs/10.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/11.jpg" afterPath="$PROJECT_DIR$/images/thumbs/11.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/12.jpg" afterPath="$PROJECT_DIR$/images/thumbs/12.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/13.jpg" afterPath="$PROJECT_DIR$/images/thumbs/13.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/14.jpg" afterPath="$PROJECT_DIR$/images/thumbs/14.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/15.jpg" afterPath="$PROJECT_DIR$/images/thumbs/15.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/16.jpg" afterPath="$PROJECT_DIR$/images/thumbs/16.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/17.jpg" afterPath="$PROJECT_DIR$/images/thumbs/17.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/18.jpg" afterPath="$PROJECT_DIR$/images/thumbs/18.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/19.jpg" afterPath="$PROJECT_DIR$/images/thumbs/19.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/20.jpg" afterPath="$PROJECT_DIR$/images/thumbs/20.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/21.jpg" afterPath="$PROJECT_DIR$/images/thumbs/21.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/22.jpg" afterPath="$PROJECT_DIR$/images/thumbs/22.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/23.jpg" afterPath="$PROJECT_DIR$/images/thumbs/23.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/24.jpg" afterPath="$PROJECT_DIR$/images/thumbs/24.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/25.jpg" afterPath="$PROJECT_DIR$/images/thumbs/25.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/26.jpg" afterPath="$PROJECT_DIR$/images/thumbs/26.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/27.jpg" afterPath="$PROJECT_DIR$/images/thumbs/27.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/28.jpg" afterPath="$PROJECT_DIR$/images/thumbs/28.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/29.jpg" afterPath="$PROJECT_DIR$/images/thumbs/29.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/30.jpg" afterPath="$PROJECT_DIR$/images/thumbs/30.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/31.jpg" afterPath="$PROJECT_DIR$/images/thumbs/31.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/32.jpg" afterPath="$PROJECT_DIR$/images/thumbs/32.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/33.jpg" afterPath="$PROJECT_DIR$/images/thumbs/33.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/34.jpg" afterPath="$PROJECT_DIR$/images/thumbs/34.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/35.jpg" afterPath="$PROJECT_DIR$/images/thumbs/35.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/36.jpg" afterPath="$PROJECT_DIR$/images/thumbs/36.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/37.jpg" afterPath="$PROJECT_DIR$/images/thumbs/37.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/38.jpg" afterPath="$PROJECT_DIR$/images/thumbs/38.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/39.jpg" afterPath="$PROJECT_DIR$/images/thumbs/39.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/40.jpg" afterPath="$PROJECT_DIR$/images/thumbs/40.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/41.jpg" afterPath="$PROJECT_DIR$/images/thumbs/41.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/42.jpg" afterPath="$PROJECT_DIR$/images/thumbs/42.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/43.jpg" afterPath="$PROJECT_DIR$/images/thumbs/43.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/44.jpg" afterPath="$PROJECT_DIR$/images/thumbs/44.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/45.jpg" afterPath="$PROJECT_DIR$/images/thumbs/45.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/46.jpg" afterPath="$PROJECT_DIR$/images/thumbs/46.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/47.jpg" afterPath="$PROJECT_DIR$/images/thumbs/47.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/48.jpg" afterPath="$PROJECT_DIR$/images/thumbs/48.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/49.jpg" afterPath="$PROJECT_DIR$/images/thumbs/49.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/50.jpg" afterPath="$PROJECT_DIR$/images/thumbs/50.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/51.jpg" afterPath="$PROJECT_DIR$/images/thumbs/51.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/52.jpg" afterPath="$PROJECT_DIR$/images/thumbs/52.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/53.jpg" afterPath="$PROJECT_DIR$/images/thumbs/53.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/54.jpg" afterPath="$PROJECT_DIR$/images/thumbs/54.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,8 +139,8 @@
       <file leaf-file-name="board.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/board.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="300">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="e#10667#10673#0" expanded="true" />
               </folding>
@@ -81,7 +182,7 @@
         <entry file="file://$PROJECT_DIR$/generic.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -104,6 +205,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Richard Tsai" />
+      </list>
+    </option>
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -225,7 +331,7 @@
       <workItem from="1517409562599" duration="48000" />
       <workItem from="1517802984670" duration="99000" />
       <workItem from="1518015758975" duration="1813000" />
-      <workItem from="1518094950468" duration="2345000" />
+      <workItem from="1518094950468" duration="2634000" />
     </task>
     <task id="LOCAL-00001" summary="changing files">
       <created>1515435109921</created>
@@ -430,11 +536,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518097070632</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="redesigning the website">
+      <created>1518101390951</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1518101390951</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28004000" />
+    <option name="totallyTimeSpent" value="28293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -499,7 +612,8 @@
     <MESSAGE value="animations" />
     <MESSAGE value="changes" />
     <MESSAGE value="redesigning the website" />
-    <option name="LAST_COMMIT_MESSAGE" value="redesigning the website" />
+    <MESSAGE value="optimizing pics" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimizing pics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -899,15 +1013,15 @@
     <entry file="file://$PROJECT_DIR$/generic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/board.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="300">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="e#10667#10673#0" expanded="true" />
           </folding>
