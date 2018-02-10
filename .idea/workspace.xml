@@ -40,8 +40,8 @@
       <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            <state relative-caret-position="195">
+              <caret line="310" column="68" lean-forward="false" selection-start-line="310" selection-start-column="68" selection-end-line="310" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -205,7 +205,7 @@
       <workItem from="1518015758975" duration="1813000" />
       <workItem from="1518094950468" duration="3459000" />
       <workItem from="1518183042965" duration="830000" />
-      <workItem from="1518204780352" duration="1162000" />
+      <workItem from="1518204780352" duration="1647000" />
     </task>
     <task id="LOCAL-00001" summary="changing files">
       <created>1515435109921</created>
@@ -445,11 +445,25 @@
       <option name="project" value="LOCAL" />
       <updated>1518205674640</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="changes">
+      <created>1518205986425</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1518205986425</updated>
+    </task>
+    <task id="LOCAL-00036" summary="changes">
+      <created>1518215263530</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1518215263530</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31110000" />
+    <option name="totallyTimeSpent" value="31595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -810,8 +824,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="195">
+          <caret line="310" column="68" lean-forward="false" selection-start-line="310" selection-start-column="68" selection-end-line="310" selection-end-column="68" />
           <folding />
         </state>
       </provider>
