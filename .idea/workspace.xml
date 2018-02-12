@@ -3,8 +3,59 @@
   <component name="ChangeListManager">
     <list default="true" id="b3ea4c90-3ca8-4314-b8ea-6d2b754b0da4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/ie8-gallery.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/ie9-gallery.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/ie9.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/images/arrow.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/images/bars.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/images/close.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/main-gallery.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css old/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts old/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts old/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts old/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts old/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts old/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts old/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/ie/backgroundsize.min.htc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/ie/html5shiv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/ie/respond.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/jquery.poptrox.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/jquery.scrollex.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/jquery.scrolly.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/main-gallery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/skel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js old/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/base/_page.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/base/_typography.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/components/_button.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/components/_form.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/components/_icon.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/components/_list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/components/_panel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/components/_poptrox-popup.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/components/_table.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/ie8-gallery.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/ie8.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/ie9-gallery.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/ie9.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/layout/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/layout/_header.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/layout/_main.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/layout/_wrapper.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/libs/_functions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/libs/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/libs/_skel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/libs/_vars.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/main-gallery.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/sass old/main.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/elements.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/generic.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/bg05.jpg" afterPath="$PROJECT_DIR$/images/bg05.jpg" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +73,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            <state relative-caret-position="480">
+              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -32,7 +83,7 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="-413">
               <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -44,7 +95,7 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
+            <state relative-caret-position="-247">
               <caret line="148" column="7" lean-forward="false" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="7" />
               <folding />
             </state>
@@ -218,7 +269,7 @@
       <workItem from="1518094950468" duration="3459000" />
       <workItem from="1518183042965" duration="830000" />
       <workItem from="1518204780352" duration="1767000" />
-      <workItem from="1518401852828" duration="1494000" />
+      <workItem from="1518401852828" duration="1837000" />
     </task>
     <task id="LOCAL-00001" summary="changing files">
       <created>1515435109921</created>
@@ -486,11 +537,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518402936321</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="temp page done lol">
+      <created>1518403454084</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1518403454084</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33209000" />
+    <option name="totallyTimeSpent" value="33552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -557,7 +615,8 @@
     <MESSAGE value="changes" />
     <MESSAGE value="comments" />
     <MESSAGE value="a maintainance page is up... and old crap has been moved&#10;the new website will be online soon" />
-    <option name="LAST_COMMIT_MESSAGE" value="a maintainance page is up... and old crap has been moved&#10;the new website will be online soon" />
+    <MESSAGE value="temp page done lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="temp page done lol" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -832,14 +891,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/animation-delay.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -848,17 +899,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="148" column="7" lean-forward="false" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="-413">
           <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -866,10 +909,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="148" column="7" lean-forward="false" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/animation-delay.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="480">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
           <folding />
         </state>
       </provider>
