@@ -1,5 +1,9 @@
+@import '../libs/vars';
+@import '../libs/functions';
+@import '../libs/mixins';
+
 ///
-/// Multiverse by HTML5 UP
+/// Eventually by HTML5 UP
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
@@ -9,28 +13,45 @@
 	body, input, select, textarea {
 		color: _palette(fg);
 		font-family: _font(family);
-		font-size: 15pt;
+		font-size: 16pt;
 		font-weight: _font(weight);
-		letter-spacing: _font(kerning);
-		line-height: 1.65;
+		letter-spacing: _font(letter-spacing);
+		line-height: 1.65em;
 
 		@include breakpoint(xlarge) {
+			font-size: 12pt;
+		}
+
+		@include breakpoint(large) {
 			font-size: 11pt;
+		}
+
+		@include breakpoint(medium) {
+			font-size: 12pt;
+		}
+
+		@include breakpoint(small) {
+			font-size: 12pt;
+		}
+
+		@include breakpoint(xsmall) {
+			font-size: 12pt;
 		}
 	}
 
 	a {
 		@include vendor('transition', (
-			'color #{_duration(transition)} ease-in-out',
-			'border-bottom-color #{_duration(transition)} ease-in-out'
+			'border-bottom-color #{_duration(transition)} ease',
+			'color #{_duration(transition)} ease'
 		));
-		border-bottom: dotted 1px;
-		color: _palette(accent1);
+		border-bottom: dotted 1px _palette(border2);
+		color: _palette(accent, bg);
 		text-decoration: none;
 
 		&:hover {
 			border-bottom-color: transparent;
-			color: _palette(accent1) !important;
+			color: _palette(accent, bg) !important;
+			text-decoration: none;
 		}
 	}
 
@@ -50,10 +71,8 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
-		letter-spacing: _font(kerning-alt);
-		line-height: 1.5;
+		line-height: 1em;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
-		text-transform: uppercase;
 
 		a {
 			color: inherit;
@@ -62,49 +81,33 @@
 	}
 
 	h1 {
-		font-size: 2em;
+		font-size: 2.5em;
+		line-height: 1.25em;
 	}
 
 	h2 {
-		font-size: 1.25em;
+		font-size: 1.75em;
+		line-height: 1.5em;
 	}
 
 	h3 {
-		font-size: 1.1em;
+		font-size: 1.35em;
+		line-height: 1.5em;
 	}
 
 	h4 {
-		font-size: 1em;
+		font-size: 1.1em;
+		line-height: 1.5em;
 	}
 
 	h5 {
 		font-size: 0.9em;
+		line-height: 1.5em;
 	}
 
 	h6 {
 		font-size: 0.7em;
-	}
-
-	@include breakpoint(small) {
-		h2 {
-			font-size: 1em;
-		}
-
-		h3 {
-			font-size: 0.9em;
-		}
-
-		h4 {
-			font-size: 0.8em;
-		}
-
-		h5 {
-			font-size: 0.7em;
-		}
-
-		h6 {
-			font-size: 0.7em;
-		}
+		line-height: 1.5em;
 	}
 
 	sub {
@@ -120,7 +123,7 @@
 	}
 
 	blockquote {
-		border-left: 4px _palette(border);
+		border-left: solid (_size(border-width) * 4) _palette(border);
 		font-style: italic;
 		margin: 0 0 _size(element-margin) 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
@@ -128,7 +131,8 @@
 
 	code {
 		background: _palette(border-bg);
-		border: solid 1px _palette(border);
+		border-radius: _size(border-radius);
+		border: solid _size(border-width) _palette(border);
 		font-family: _font(family-fixed);
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -143,7 +147,7 @@
 
 		code {
 			display: block;
-			line-height: 1.75;
+			line-height: 1.75em;
 			padding: 1em 1.5em;
 			overflow-x: auto;
 		}
@@ -151,22 +155,10 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px _palette(border);
+		border-bottom: solid _size(border-width) _palette(border);
 		margin: _size(element-margin) 0;
 
 		&.major {
 			margin: (_size(element-margin) * 1.5) 0;
 		}
-	}
-
-	.align-left {
-		text-align: left;
-	}
-
-	.align-center {
-		text-align: center;
-	}
-
-	.align-right {
-		text-align: right;
 	}

@@ -1,5 +1,9 @@
+@import '../libs/vars';
+@import '../libs/functions';
+@import '../libs/mixins';
+
 ///
-/// Multiverse by HTML5 UP
+/// Eventually by HTML5 UP
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
@@ -9,34 +13,39 @@
 	form {
 		margin: 0 0 _size(element-margin) 0;
 
-		.field {
-			margin: 0 0 (_size(element-margin) * 0.65) 0;
+		.message {
+			@include icon;
+			@include vendor('transition', (
+				'opacity #{_duration(transition)} ease-in-out',
+				'transform #{_duration(transition)} ease-in-out'
+			));
+			@include vendor('transform', 'scale(1.05)');
+			height: _size(element-height);
+			line-height: _size(element-height);
+			opacity: 0;
 
-			&.half {
-				float: left;
-				padding: 0 0 0 (_size(element-margin) * 0.325);
-				width: 50%;
+			&:before {
+				margin-right: 0.5em;
+			}
 
-				&.first {
-					padding: 0 (_size(element-margin) * 0.325) 0 0;
+			&.visible {
+				@include vendor('transform', 'scale(1)');
+				opacity: 1;
+			}
+
+			&.success {
+				color: _palette(positive, bg);
+
+				&:before {
+					content: '\f00c';
 				}
 			}
-		}
 
-		> .actions {
-			margin: (_size(element-margin) * 0.75) 0 0 0 !important;
-		}
+			&.failure {
+				color: _palette(negative, bg);
 
-		@include breakpoint(small) {
-			.field {
-				&.half {
-					float: none;
-					padding: 0;
-					width: 100%;
-
-					&.first {
-						padding: 0;
-					}
+				&:before {
+					content: '\f119';
 				}
 			}
 		}
@@ -50,19 +59,28 @@
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
 	}
 
+	@include keyframes(focus) {
+		0% { @include vendor('transform', 'scale(1)'); }
+		50% { @include vendor('transform', 'scale(1.025)'); }
+		100% { @include vendor('transform', 'scale(1)'); }
+	}
+
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
-	input[type="tel"],
-	input[type="search"],
-	input[type="url"],
 	select,
 	textarea {
 		@include vendor('appearance', 'none');
-		background: _palette(border-bg);
-		border: 0;
-		border-radius: 0;
-		color: _palette(fg);
+		@include vendor('transform', 'scale(1)');
+		@include vendor('transition', (
+			'border-color #{_duration(transition)} ease',
+			'background-color #{_duration(transition)} ease'
+		));
+		background-color: transparent;
+		border-radius: _size(border-radius);
+		border: none;
+		border: solid _size(border-width) _palette(border);
+		color: inherit;
 		display: block;
 		outline: 0;
 		padding: 0 1em;
@@ -74,7 +92,9 @@
 		}
 
 		&:focus {
-			box-shadow: inset 0 0 0 2px _palette(accent1);
+			@include vendor('animation', 'focus 0.1s');
+			background-color: _palette(border-bg);
+			border-color: _palette(accent, bg);
 		}
 	}
 
@@ -105,9 +125,6 @@
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
-	input[type="tel"],
-	input[type="search"],
-	input[type="url"],
 	select {
 		height: _size(element-height);
 	}
@@ -139,6 +156,8 @@
 
 			&:before {
 				background: _palette(border-bg);
+				border-radius: _size(border-radius);
+				border: solid _size(border-width) _palette(border);
 				content: '';
 				display: inline-block;
 				height: (_size(element-height) * 0.6);
@@ -153,16 +172,17 @@
 
 		&:checked + label {
 			&:before {
-				background: _palette(accent1);
-				border-color: _palette(accent1);
-				color: _palette(fg-bold);
+				background: _palette(accent, bg);
+				border-color: _palette(accent, bg);
+				color: _palette(accent, fg-bold);
 				content: '\f00c';
 			}
 		}
 
 		&:focus + label {
 			&:before {
-				box-shadow: 0 0 0 2px _palette(accent1);
+				border-color: _palette(accent, bg);
+				box-shadow: 0 0 0 _size(border-width) _palette(accent, bg);
 			}
 		}
 	}
@@ -170,6 +190,7 @@
 	input[type="checkbox"] {
 		& + label {
 			&:before {
+				border-radius: _size(border-radius);
 			}
 		}
 	}
@@ -183,26 +204,26 @@
 	}
 
 	::-webkit-input-placeholder {
-		color: _palette(fg-medium) !important;
+		color: _palette(fg-light) !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: _palette(fg-medium) !important;
+		color: _palette(fg-light) !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: _palette(fg-medium) !important;
+		color: _palette(fg-light) !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: _palette(fg-medium) !important;
+		color: _palette(fg-light) !important;
 		opacity: 1.0;
 	}
 
 	.formerize-placeholder {
-		color: _palette(fg-medium) !important;
+		color: _palette(fg-light) !important;
 		opacity: 1.0;
 	}
