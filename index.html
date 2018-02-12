@@ -11,31 +11,29 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/animation-delay.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css"/>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
-		<script>
-            new WOW().init();
-		</script>
 	</head>
 	<body>
 
 		<!-- Header -->
 			<header id="header">
-				<h1>We are currently working on it!</h1>
-				<p>There was a problem with the design<br />
-				of the website! It'll be online shortly!</p>
+				<h1 class="animated delay-1 fadeIn" >We are currently working on it!</h1>
+				<p class="delay-2 animated slideInLeft" >There was a problem with the design<br />
+				of the website! It'll be online shortly! <br/>
+				You can still contact us!</p>
 			</header>
 
 		<!-- Signup Form -->
-			<form id="signup-form" method="post" action="#">
+			<form id="signup-form" method="post" action="mailto:club@herricksrobotics.org" class="delay-3 animated slideInLeft">
 				<input type="email" name="email" id="email" placeholder="Email Address" />
 				<input type="submit" value="Sign Up" />
 			</form>
 
 		<!-- Footer -->
-			<footer id="footer">
+			<footer id="footer" class=" delay-4 animated slideInLeft">
 				<ul class="icons">
 					<li><a href="https://www.facebook.com/groups/herricksrobotics/" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 					<li><a href="https://github.com/HerricksRobotics" class="icon alt fa-github"><span class="label">GitHub</span></a></li>

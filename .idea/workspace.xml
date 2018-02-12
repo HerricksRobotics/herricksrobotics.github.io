@@ -2,169 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3ea4c90-3ca8-4314-b8ea-6d2b754b0da4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation-delay.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie8-gallery.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie8.css" afterPath="$PROJECT_DIR$/assets/css/ie8.css" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie9-gallery.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie9.css" afterPath="$PROJECT_DIR$/assets/css/ie9.css" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/arrow.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/bars.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/close.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main-gallery.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main-gallery.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
-      <change beforePath="$PROJECT_DIR$/assets/js/skel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_panel.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_poptrox-popup.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie8-gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" afterPath="$PROJECT_DIR$/assets/sass/ie8.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie9-gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" afterPath="$PROJECT_DIR$/assets/sass/ie9.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main-gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/assets/sass/main.scss" />
-      <change beforePath="$PROJECT_DIR$/images/amanda.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bhavesh.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/caitlin.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/chloe.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/chris.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/15.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/16.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/17.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/18.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/19.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/20.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/21.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/23.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/24.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/25.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/26.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/27.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/28.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/29.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/30.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/31.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/32.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/33.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/34.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/35.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/36.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/37.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/38.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/39.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/40.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/41.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/42.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/43.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/44.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/45.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/46.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/47.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/48.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/49.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/50.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/51.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/52.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/53.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/54.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/header.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/herbie.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/kanishk.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/richard.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/15.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/16.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/17.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/18.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/19.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/20.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/21.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/23.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/24.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/25.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/26.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/27.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/28.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/29.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/30.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/31.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/32.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/33.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/34.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/35.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/36.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/37.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/38.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/39.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/40.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/41.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/42.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/43.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/44.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/45.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/46.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/47.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/48.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/49.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/50.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/51.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/52.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/53.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/54.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -179,22 +19,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="390">
+              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animation-delay.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/animation-delay.css">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="352">
+              <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -202,8 +44,18 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="251">
+              <caret line="148" column="7" lean-forward="false" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animation-delay.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/animation-delay.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -223,6 +75,8 @@
       <find>sates</find>
       <find>menu</find>
       <find>nav</find>
+      <find>background</find>
+      <find>bg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -244,9 +98,10 @@
         <option value="$PROJECT_DIR$/elements.html" />
         <option value="$PROJECT_DIR$/generic.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/animation-delay.css" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -293,6 +148,18 @@
               <item name="herricksrobotics.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="herricksrobotics.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="herricksrobotics.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="herricksrobotics.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="herricksrobotics.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -351,7 +218,7 @@
       <workItem from="1518094950468" duration="3459000" />
       <workItem from="1518183042965" duration="830000" />
       <workItem from="1518204780352" duration="1767000" />
-      <workItem from="1518401852828" duration="875000" />
+      <workItem from="1518401852828" duration="1494000" />
     </task>
     <task id="LOCAL-00001" summary="changing files">
       <created>1515435109921</created>
@@ -612,16 +479,24 @@
       <option name="project" value="LOCAL" />
       <updated>1518229735855</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="a maintainance page is up... and old crap has been moved&#10;the new website will be online soon">
+      <created>1518402936321</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1518402936321</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32590000" />
+    <option name="totallyTimeSpent" value="33209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17406625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17406625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -641,24 +516,24 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17406625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -681,22 +556,14 @@
     <MESSAGE value="optimizing pics" />
     <MESSAGE value="changes" />
     <MESSAGE value="comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="comments" />
+    <MESSAGE value="a maintainance page is up... and old crap has been moved&#10;the new website will be online soon" />
+    <option name="LAST_COMMIT_MESSAGE" value="a maintainance page is up... and old crap has been moved&#10;the new website will be online soon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main-board.js" />
     <entry file="file://$PROJECT_DIR$/board.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -965,26 +832,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/animation-delay.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="251">
+          <caret line="148" column="7" lean-forward="false" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/animation-delay.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="390">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
           <folding />
         </state>
       </provider>
