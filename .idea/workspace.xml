@@ -1,226 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3ea4c90-3ca8-4314-b8ea-6d2b754b0da4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/competitions.html" />
+    <list default="true" id="b3ea4c90-3ca8-4314-b8ea-6d2b754b0da4" name="Default" comment="welcome to the new website">
+      <change beforePath="" afterPath="$PROJECT_DIR$/11040a.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11040b.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11040c.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/board(this still has some info).html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/calendar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/colors/blue.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/thanks.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vex.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/ie8-gallery.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/ie8.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/ie9-gallery.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/ie9.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/images/arrow.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/images/bars.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/images/close.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/main-gallery.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/ie/backgroundsize.min.htc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/ie/html5shiv.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/ie/respond.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/jquery.poptrox.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/jquery.scrollex.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/jquery.scrolly.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/main-gallery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/skel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/js/util.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/base/_page.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/base/_typography.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/components/_button.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/components/_form.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/components/_icon.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/components/_list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/components/_panel.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/components/_poptrox-popup.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/components/_table.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/ie8-gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/ie8.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/ie9-gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/ie9.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/layout/_footer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/layout/_header.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/layout/_main.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/layout/_wrapper.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/libs/_functions.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/libs/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/libs/_skel.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/libs/_vars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/main-gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets old/sass/main.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/animation-delay.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie8.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie9.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_bg.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_signup-form.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/board.html" afterPath="$PROJECT_DIR$/board.html" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change beforePath="$PROJECT_DIR$/images old/Gear.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/amanda.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/bhavesh.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/caitlin.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/chloe.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/chris.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/15.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/16.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/17.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/18.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/19.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/20.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/21.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/23.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/24.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/25.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/26.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/27.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/28.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/29.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/30.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/31.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/32.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/33.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/34.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/35.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/36.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/37.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/38.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/39.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/40.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/41.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/42.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/43.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/44.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/45.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/46.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/47.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/48.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/49.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/50.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/51.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/52.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/53.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/fulls/54.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/herbie.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/kanishk.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/pic01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/pic02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/pic04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/pic05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/pic06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/richard.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/15.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/16.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/17.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/18.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/19.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/20.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/21.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/23.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/24.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/25.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/26.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/27.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/28.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/29.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/30.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/31.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/32.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/33.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/34.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/35.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/36.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/37.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/38.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/39.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/40.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/41.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/42.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/43.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/44.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/45.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/46.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/47.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/48.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/49.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/50.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/51.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/52.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/53.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images old/thumbs/54.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Gear.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bg01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bg02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bg03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bg04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bg05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bg06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index-crap.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/main-index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/main-vex.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -345,6 +138,23 @@
             <path>
               <item name="herricksrobotics.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="herricksrobotics.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="herricksrobotics.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="herricksrobotics.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="colors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="herricksrobotics.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="herricksrobotics.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="maps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="herricksrobotics.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="herricksrobotics.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -411,7 +221,7 @@
       <workItem from="1521920850764" duration="526000" />
       <workItem from="1521950562519" duration="1214000" />
       <workItem from="1522026844565" duration="31000" />
-      <workItem from="1522163084393" duration="19000" />
+      <workItem from="1522163084393" duration="416000" />
     </task>
     <task id="LOCAL-00001" summary="changing files">
       <created>1515435109921</created>
@@ -721,17 +531,23 @@
       <option name="project" value="LOCAL" />
       <updated>1518492056950</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="welcome to the new website">
+      <created>1522163139563</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1522163139563</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36981000" />
+    <option name="totallyTimeSpent" value="37378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17406625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17406625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -797,7 +613,8 @@
     <MESSAGE value="compressed pics" />
     <MESSAGE value="small changes" />
     <MESSAGE value="playing around with colored tabs for android Chrome" />
-    <option name="LAST_COMMIT_MESSAGE" value="playing around with colored tabs for android Chrome" />
+    <MESSAGE value="welcome to the new website" />
+    <option name="LAST_COMMIT_MESSAGE" value="welcome to the new website" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

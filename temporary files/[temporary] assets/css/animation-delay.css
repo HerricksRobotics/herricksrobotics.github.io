@@ -1,0 +1,19 @@
+/**
+    Build by Richard Tsai
+    Need to delay some animations... that's all
+ */
+.delay-1 {
+    animation-delay: 1s;
+}
+.delay-2 {
+    animation-delay: 2s;
+}
+.delay-3{
+    animation-delay: 3s;
+}
+.delay-4{
+    animation-delay: 4s;
+}
+.delay-5{
+    animation-delay: 5s;
+}
