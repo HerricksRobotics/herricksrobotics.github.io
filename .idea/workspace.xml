@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b3ea4c90-3ca8-4314-b8ea-6d2b754b0da4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11040b.html" beforeDir="false" afterPath="$PROJECT_DIR$/11040b.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="-1129">
+              <caret line="120" selection-start-line="120" selection-end-line="120" />
             </state>
           </provider>
         </entry>
@@ -35,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="11040b.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="11040b.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11040b.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="215" column="37" selection-start-line="215" selection-start-column="37" selection-end-line="215" selection-end-column="37" />
+            <state relative-caret-position="228">
+              <caret line="149" column="168" selection-start-line="149" selection-start-column="168" selection-end-line="149" selection-end-column="168" />
             </state>
           </provider>
         </entry>
@@ -224,14 +223,7 @@
       <workItem from="1521950562519" duration="1214000" />
       <workItem from="1522026844565" duration="31000" />
       <workItem from="1522163084393" duration="416000" />
-      <workItem from="1525573853382" duration="1505000" />
-    </task>
-    <task id="LOCAL-00001" summary="changing files">
-      <created>1515435109921</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1515435109921</updated>
+      <workItem from="1525573853382" duration="1850000" />
     </task>
     <task id="LOCAL-00002" summary="adding Pics into gallery.html&#10;will be continuing to edit format and add more pics">
       <created>1515593000726</created>
@@ -562,11 +554,25 @@
       <option name="project" value="LOCAL" />
       <updated>1525574685145</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="11040b team members">
+      <created>1525575377415</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1525575377415</updated>
+    </task>
+    <task id="LOCAL-00050" summary="11040b team members">
+      <created>1525575584303</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1525575584303</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38883000" />
+    <option name="totallyTimeSpent" value="39228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -641,7 +647,8 @@
     <MESSAGE value="welcome to the new website" />
     <MESSAGE value="board update" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="11040b team members" />
+    <option name="LAST_COMMIT_MESSAGE" value="11040b team members" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/js/main-board.js" />
@@ -806,13 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11040a.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -822,8 +822,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11040b.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="215" column="37" selection-start-line="215" selection-start-column="37" selection-end-line="215" selection-end-column="37" />
+        <state relative-caret-position="228">
+          <caret line="149" column="168" selection-start-line="149" selection-start-column="168" selection-end-line="149" selection-end-column="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1129">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
         </state>
       </provider>
     </entry>
