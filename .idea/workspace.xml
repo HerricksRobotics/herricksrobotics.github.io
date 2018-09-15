@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b3ea4c90-3ca8-4314-b8ea-6d2b754b0da4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11040a.html" beforeDir="false" afterPath="$PROJECT_DIR$/11040a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11040b.html" beforeDir="false" afterPath="$PROJECT_DIR$/11040b.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board.html" beforeDir="false" afterPath="$PROJECT_DIR$/board.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,7 +29,7 @@
       <file leaf-file-name="vex.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="2499">
               <caret line="147" column="109" selection-start-line="147" selection-start-column="109" selection-end-line="147" selection-end-column="109" />
             </state>
           </provider>
@@ -40,17 +38,17 @@
       <file leaf-file-name="11040a.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11040a.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="3009">
               <caret line="177" column="53" selection-start-line="177" selection-start-column="53" selection-end-line="177" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="11040b.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="11040b.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11040b.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="234" column="101" selection-start-line="234" selection-start-column="101" selection-end-line="234" selection-end-column="101" />
+            <state relative-caret-position="4080">
+              <caret line="240" column="14" selection-start-line="240" selection-start-column="14" selection-end-line="240" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -64,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="board.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="board.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/board.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="280" column="107" selection-start-line="280" selection-start-column="31" selection-end-line="280" selection-end-column="107" />
+            <state relative-caret-position="289">
+              <caret line="256" column="58" lean-forward="true" selection-start-line="256" selection-start-column="58" selection-end-line="256" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -116,9 +114,9 @@
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/vex.html" />
-        <option value="$PROJECT_DIR$/board.html" />
         <option value="$PROJECT_DIR$/11040a.html" />
         <option value="$PROJECT_DIR$/11040b.html" />
+        <option value="$PROJECT_DIR$/board.html" />
       </list>
     </option>
   </component>
@@ -238,13 +236,8 @@
       <workItem from="1525828008599" duration="34000" />
       <workItem from="1525828328285" duration="4000" />
       <workItem from="1528654030529" duration="3231000" />
-    </task>
-    <task id="LOCAL-00009" summary="going to edit website now lol...since i have a free period">
-      <created>1516979672348</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1516979672348</updated>
+      <workItem from="1530735582493" duration="1017000" />
+      <workItem from="1537053304389" duration="239000" />
     </task>
     <task id="LOCAL-00010" summary="going to edit website now lol...since i have a free period">
       <created>1516979812488</created>
@@ -582,33 +575,41 @@
       <option name="project" value="LOCAL" />
       <updated>1525579467323</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="changes!!! :O">
+      <created>1530735730448</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1530735730449</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45561000" />
+    <option name="totallyTimeSpent" value="46817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17330211" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17330211" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32889965" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3281787" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -859,29 +860,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="2499">
           <caret line="147" column="109" selection-start-line="147" selection-start-column="109" selection-end-line="147" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/board.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="280" column="107" selection-start-line="280" selection-start-column="31" selection-end-line="280" selection-end-column="107" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11040a.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="3009">
           <caret line="177" column="53" selection-start-line="177" selection-start-column="53" selection-end-line="177" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11040b.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="234" column="101" selection-start-line="234" selection-start-column="101" selection-end-line="234" selection-end-column="101" />
+        <state relative-caret-position="4080">
+          <caret line="240" column="14" selection-start-line="240" selection-start-column="14" selection-end-line="240" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/board.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="256" column="58" lean-forward="true" selection-start-line="256" selection-start-column="58" selection-end-line="256" selection-end-column="58" />
         </state>
       </provider>
     </entry>
